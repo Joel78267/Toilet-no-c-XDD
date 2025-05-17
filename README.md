@@ -1,2 +1,2 @@
 # Toilet-no-c-XDD
-Print(Hello World)
+Print("Hello World")
